@@ -12,17 +12,13 @@ I considered having a sensor detect whether or not the leash is present, to auto
 
 ## Component Parts
 
-From what pieces will you build your project? Will you build or buy those pieces?
-
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+Two buttons, two neopixel strips, a metal hook, laser cut casing.
 
 ## Challenges
 
-A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
+Displaying time in an intuitive fashion so it can be understood from afar and up close. 
 
 ## Timeline
-
-What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
 
 - Week 1: Write proposal
 - Week 2: 
