@@ -1,14 +1,14 @@
 # Bailey's Clock
 
-A dog leash hook that tells a family when the dog was last taken out and what happened. 
+A dog leash hook that tells a family when their dog was last taken out and what happened. 
 
 ## Summary
 
-The hook will feature a two LED strips, one that shows time since last time the dog did #1 and another for the last time she went #2. 
-This dog leash hook will be put on the wall near the door. Because it's being displayed in the home, it should have a pleasant appearance. 
-Here, write a few paragraphs (half a page?) or so describing the goals of your project. 
+The hook will feature a two LED strips. One that shows the time since the dog did #1 and another for the last time she went #2. Each illumated LED would represent 1 hour that has passed. As time passes, the lights turn from white to yellow to red. If it has been 4 hours or under since she last did 1 or 2, the lights will be green. 4-6 hours will be yellow, and 6-10 as red. Under each strip is a button that resets the time for that strip. 
 
-Include a discussion how it will be interactive or responsive to the environment.
+This dog leash hook will be put on the wall near the door. Because it's being displayed in the home, it should have a pleasant appearance. 
+
+I considered having a sensor detect whether or not the leash is present, to automatically reset the time, but with the butt buttons I for 1 and 2, I do not need to know whether the leash is there.
 
 ## Component Parts
 
