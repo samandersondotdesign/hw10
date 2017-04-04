@@ -21,9 +21,9 @@ Displaying time in an intuitive fashion so it can be understood from afar and up
 ## Timeline
 
 - Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
+- Week 2: Order right parts, draw device and schematic 
+- Week 3: Assemble and test
+- Week 4: Fix bugs
 - Week 5: Present!
 
 ## References and link
